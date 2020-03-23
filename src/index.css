@@ -31,3 +31,18 @@ main {
 header h1 {
   text-align: center;
 }
+a{
+  margin: 1%;
+  padding: 1%;
+}
+.card{
+  width: 70%;
+  
+  margin: 2%;
+}
+
+.card-box{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

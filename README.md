@@ -29,6 +29,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 > Answer:
 
+Generally much faster to change routes then to reqest more data from a server. Also, smoother transitions between pages and views (e.g. desktop to tablet views).
+
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
